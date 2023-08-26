@@ -1,0 +1,3 @@
+[workspace]
+members = ["farmers_backend", "farmers_desktop"]
+resolver = "2"
